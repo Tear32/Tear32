@@ -1,8 +1,8 @@
 ### <p align="center">☁️ tear32 ☁️</p>
 <p align= "center">
-  <img src="[https://komarev.com/ghpvc/?username=waxnet](https://komarev.com/ghpvc/?username=tear32)">
+  <img src="https://komarev.com/ghpvc/?username=tear32">
   <br>
-  <img src="[https://img.shields.io/badge/-waxnet%230078-0078f2?style=flat&logo=Discord&logoColor=white](https://img.shields.io/badge/-tear34-0078f4?style=flat&logo=Discord&logoColor=white)https://img.shields.io/badge/-tear34-0078f4?style=flat&logo=Discord&logoColor=white">
+  <img src="https://img.shields.io/badge/-tear34-0078f4?style=flat&logo=Discord&logoColor=white">
 </p>
 
 ### <p align="center">🖥 Applications 🖥</p>
